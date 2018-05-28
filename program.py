@@ -20,7 +20,7 @@ def game_loop():
 
     print("Welcome to the wonderful game of wizards and beasts.")
     hero_name = input('Please give your wizard a name? ')
-    print("Welcome ole wise and merciful " + hero_name)
+    print("Welcome old wise and merciful " + hero_name)
     print()
 
     creatures = [
